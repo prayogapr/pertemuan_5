@@ -1,0 +1,4 @@
+#Thu Mar 30 11:02:44 ICT 2023
+base.0=C\:\\Users\\Picors\\Documents\\yoga\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
